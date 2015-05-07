@@ -1,0 +1,68 @@
+<html>
+<table>
+    <tr>
+        <td>
+            Dear ${partyName}
+        </td>
+    </tr>
+    <tr>
+        <td height="20">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"
+            style="font-family: Arial, Helvetica, sans-serif; font-size:18px; color:#2a2a2a; font-weight:bold;">
+            PFA which has the payment summary from  ${fromDate} to ${thruDate}
+        </td>
+    </tr>
+    <tr>
+        <td height="10">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"
+            style="font-family: Arial, Helvetica, sans-serif; font-size:15px; color:#2a2a2a; font-weight:normal;">
+            Thanks for registering into our portal.We promise to deliver the best hospital management service.
+        </td>
+    </tr>
+    <tr>
+        <td height="30">
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"
+            style="font-family: Arial, Helvetica, sans-serif; font-size:18px; color:#0b827e; font-weight:bold;">
+            Thanks & Regards,
+        </td>
+    </tr>
+    <tr>
+        <td height="10">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"
+            style="font-family: Arial, Helvetica, sans-serif; font-size:16px; color:#878539; font-weight:normal;">
+            Administration Department
+        </td>
+    </tr>
+    <tr>
+        <td height="3">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"
+            style="font-family: Arial, Helvetica, sans-serif; font-size:14px; color:#000; font-weight:normal;">
+            Hospital Management System
+        </td>
+    </tr>
+    <tr>
+        <td height="15">
+        </td>
+    </tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
